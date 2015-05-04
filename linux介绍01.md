@@ -1,6 +1,6 @@
-#linux½éÉÜ
+#linuxä»‹ç»
 
-»ùÓÚÄÚºËµÄlinuxÏµÍ³Í¼
+åŸºäºå†…æ ¸çš„linuxç³»ç»Ÿå›¾
 
 ![](images/linux01.png)
 
